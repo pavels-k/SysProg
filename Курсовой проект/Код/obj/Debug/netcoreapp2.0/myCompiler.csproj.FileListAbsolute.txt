@@ -1,0 +1,10 @@
+C:\Users\Павел\Desktop\myCompiler\myCompiler\bin\Debug\netcoreapp2.0\myCompiler.deps.json
+C:\Users\Павел\Desktop\myCompiler\myCompiler\bin\Debug\netcoreapp2.0\myCompiler.runtimeconfig.json
+C:\Users\Павел\Desktop\myCompiler\myCompiler\bin\Debug\netcoreapp2.0\myCompiler.runtimeconfig.dev.json
+C:\Users\Павел\Desktop\myCompiler\myCompiler\bin\Debug\netcoreapp2.0\myCompiler.dll
+C:\Users\Павел\Desktop\myCompiler\myCompiler\bin\Debug\netcoreapp2.0\myCompiler.pdb
+C:\Users\Павел\Desktop\myCompiler\myCompiler\obj\Debug\netcoreapp2.0\myCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\myCompiler\myCompiler\obj\Debug\netcoreapp2.0\myCompiler.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\myCompiler\myCompiler\obj\Debug\netcoreapp2.0\myCompiler.AssemblyInfo.cs
+C:\Users\Павел\Desktop\myCompiler\myCompiler\obj\Debug\netcoreapp2.0\myCompiler.dll
+C:\Users\Павел\Desktop\myCompiler\myCompiler\obj\Debug\netcoreapp2.0\myCompiler.pdb
